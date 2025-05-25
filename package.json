@@ -6,6 +6,15 @@
   "scripts": {
     "start": "node index.js"
   },
+  "keywords": [
+    "whatsapp",
+    "chatgpt",
+    "bot",
+    "openai",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "openai": "^4.20.0",
     "qrcode-terminal": "^0.12.0",
