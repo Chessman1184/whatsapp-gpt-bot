@@ -1,0 +1,21 @@
+[phases.setup]
+nixpkgs = [
+  "glib",
+  "gtk3",
+  "nss",
+  "atk",
+  "cups",
+  "pango",
+  "libx11",
+  "libxcomposite",
+  "libxdamage",
+  "libxext",
+  "libxfixes",
+  "libxrandr",
+  "libxrender",
+  "libxcb",
+  "libxshmfence",
+  "mesa",
+  "udev",
+  "ffmpeg"
+]
